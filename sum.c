@@ -4,5 +4,5 @@ void main(){
     int a = 5;
     int b = 6;
 
-    printf("%d",a+b);
+    printf("The sum is : %d",b+a);
 }
